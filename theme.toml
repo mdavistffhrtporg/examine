@@ -1,12 +1,12 @@
 name = "eXaMINe"
 license = "MIT"
 licenselink = "https://github.com/mdavistffhrtporg/examine/blob/master/LICENSE.md"
-description = "Fork of eXtremely Minimal Hugo theme: about 150 lines of code in total, including HTML and CSS"
+description = "Fork of eXtremely Minimal Hugo theme, customized for my personal website"
 homepage = "https://mdavis.me/"
 demosite = "https://mdavis.me/"
 tags = ["minimal", "blog", "personal", "clean", "simple", "starter", "minimalist"]
 features = ["blog"]
-min_version = "0.18"
+min_version = "0.20"
 
 [author]
   name = "Matthew A. Davis"

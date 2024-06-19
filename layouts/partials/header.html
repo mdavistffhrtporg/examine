@@ -12,7 +12,6 @@
   <body>
     <nav>
     <ul class="menu">
-      <li><a href="https://photography.mdavis.me/">Photography Blog</a></li>
       {{ range .Site.Menus.main }}
       <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
       {{ end }}
